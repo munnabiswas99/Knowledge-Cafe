@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "cover": "https://source.unsplash.com/600x400/?technology,code",
+    "cover": "https://picsum.photos/id/1015/600/400",
     "title": "Mastering React in 2025",
     "author": "Arif Hossain",
     "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
@@ -11,7 +11,7 @@
   },
   {
     "id": 2,
-    "cover": "https://source.unsplash.com/600x400/?ai,robotics",
+    "cover": "https://picsum.photos/id/1020/600/400",
     "title": "How AI is Changing Software Development",
     "author": "Sadia Noor",
     "author_img": "https://randomuser.me/api/portraits/women/24.jpg",
@@ -21,7 +21,7 @@
   },
   {
     "id": 3,
-    "cover": "https://source.unsplash.com/600x400/?programming,laptop",
+    "cover": "https://picsum.photos/id/1033/600/400",
     "title": "10 JavaScript Tricks You Didn't Know",
     "author": "Nayeem Rahman",
     "author_img": "https://randomuser.me/api/portraits/men/15.jpg",
@@ -31,7 +31,7 @@
   },
   {
     "id": 4,
-    "cover": "https://source.unsplash.com/600x400/?design,uiux",
+    "cover": "https://picsum.photos/id/1052/600/400",
     "title": "Why UX Matters More Than You Think",
     "author": "Mehzabin Alam",
     "author_img": "https://randomuser.me/api/portraits/women/10.jpg",
@@ -41,7 +41,7 @@
   },
   {
     "id": 5,
-    "cover": "https://source.unsplash.com/600x400/?coding,hackathon",
+    "cover": "https://picsum.photos/id/1062/600/400",
     "title": "My First Hackathon Experience",
     "author": "Ratul Ahmed",
     "author_img": "https://randomuser.me/api/portraits/men/21.jpg",
@@ -51,7 +51,7 @@
   },
   {
     "id": 6,
-    "cover": "https://source.unsplash.com/600x400/?startup,entrepreneur",
+    "cover": "https://picsum.photos/id/1074/600/400",
     "title": "Starting a Tech Company in 2025",
     "author": "Farzana Kabir",
     "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
@@ -61,7 +61,7 @@
   },
   {
     "id": 7,
-    "cover": "https://source.unsplash.com/600x400/?freelance,remote",
+    "cover": "https://picsum.photos/id/1084/600/400",
     "title": "Becoming a Remote Freelancer",
     "author": "Imran Sarker",
     "author_img": "https://randomuser.me/api/portraits/men/30.jpg",
@@ -71,7 +71,7 @@
   },
   {
     "id": 8,
-    "cover": "https://source.unsplash.com/600x400/?mobileapp,development",
+    "cover": "https://picsum.photos/id/1080/600/400",
     "title": "Building My First Mobile App",
     "author": "Tanjina Islam",
     "author_img": "https://randomuser.me/api/portraits/women/19.jpg",
@@ -81,7 +81,7 @@
   },
   {
     "id": 9,
-    "cover": "https://source.unsplash.com/600x400/?cybersecurity,technology",
+    "cover": "https://picsum.photos/id/1043/600/400",
     "title": "Protecting Your Online Identity",
     "author": "Masud Rana",
     "author_img": "https://randomuser.me/api/portraits/men/36.jpg",
@@ -91,7 +91,7 @@
   },
   {
     "id": 10,
-    "cover": "https://source.unsplash.com/600x400/?blogging,writing",
+    "cover": "https://picsum.photos/id/1005/600/400",
     "title": "Why I Started Blogging as a Developer",
     "author": "Rabeya Sultana",
     "author_img": "https://randomuser.me/api/portraits/women/22.jpg",
