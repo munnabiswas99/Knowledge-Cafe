@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "cover": "https://source.unsplash.com/600x400/?technology,code",
+    "title": "Mastering React in 2025",
+    "author": "Arif Hossain",
+    "author_img": "https://randomuser.me/api/portraits/men/11.jpg",
+    "posted_date": "2025-07-30",
+    "reading_time": "5 min read",
+    "hashtags": ["#React", "#Frontend", "#JavaScript"]
+  },
+  {
+    "id": 2,
+    "cover": "https://source.unsplash.com/600x400/?ai,robotics",
+    "title": "How AI is Changing Software Development",
+    "author": "Sadia Noor",
+    "author_img": "https://randomuser.me/api/portraits/women/24.jpg",
+    "posted_date": "2025-07-28",
+    "reading_time": "6 min read",
+    "hashtags": ["#AI", "#MachineLearning", "#FutureTech"]
+  },
+  {
+    "id": 3,
+    "cover": "https://source.unsplash.com/600x400/?programming,laptop",
+    "title": "10 JavaScript Tricks You Didn't Know",
+    "author": "Nayeem Rahman",
+    "author_img": "https://randomuser.me/api/portraits/men/15.jpg",
+    "posted_date": "2025-07-26",
+    "reading_time": "4 min read",
+    "hashtags": ["#JavaScript", "#WebDev", "#Tips"]
+  },
+  {
+    "id": 4,
+    "cover": "https://source.unsplash.com/600x400/?design,uiux",
+    "title": "Why UX Matters More Than You Think",
+    "author": "Mehzabin Alam",
+    "author_img": "https://randomuser.me/api/portraits/women/10.jpg",
+    "posted_date": "2025-07-25",
+    "reading_time": "7 min read",
+    "hashtags": ["#UX", "#DesignThinking", "#ProductDesign"]
+  },
+  {
+    "id": 5,
+    "cover": "https://source.unsplash.com/600x400/?coding,hackathon",
+    "title": "My First Hackathon Experience",
+    "author": "Ratul Ahmed",
+    "author_img": "https://randomuser.me/api/portraits/men/21.jpg",
+    "posted_date": "2025-07-23",
+    "reading_time": "5 min read",
+    "hashtags": ["#Hackathon", "#Experience", "#Community"]
+  },
+  {
+    "id": 6,
+    "cover": "https://source.unsplash.com/600x400/?startup,entrepreneur",
+    "title": "Starting a Tech Company in 2025",
+    "author": "Farzana Kabir",
+    "author_img": "https://randomuser.me/api/portraits/women/45.jpg",
+    "posted_date": "2025-07-20",
+    "reading_time": "8 min read",
+    "hashtags": ["#Startup", "#Entrepreneurship", "#Innovation"]
+  },
+  {
+    "id": 7,
+    "cover": "https://source.unsplash.com/600x400/?freelance,remote",
+    "title": "Becoming a Remote Freelancer",
+    "author": "Imran Sarker",
+    "author_img": "https://randomuser.me/api/portraits/men/30.jpg",
+    "posted_date": "2025-07-18",
+    "reading_time": "6 min read",
+    "hashtags": ["#Freelance", "#RemoteWork", "#Career"]
+  },
+  {
+    "id": 8,
+    "cover": "https://source.unsplash.com/600x400/?mobileapp,development",
+    "title": "Building My First Mobile App",
+    "author": "Tanjina Islam",
+    "author_img": "https://randomuser.me/api/portraits/women/19.jpg",
+    "posted_date": "2025-07-17",
+    "reading_time": "5 min read",
+    "hashtags": ["#MobileApp", "#ReactNative", "#Journey"]
+  },
+  {
+    "id": 9,
+    "cover": "https://source.unsplash.com/600x400/?cybersecurity,technology",
+    "title": "Protecting Your Online Identity",
+    "author": "Masud Rana",
+    "author_img": "https://randomuser.me/api/portraits/men/36.jpg",
+    "posted_date": "2025-07-15",
+    "reading_time": "7 min read",
+    "hashtags": ["#CyberSecurity", "#Privacy", "#TechTips"]
+  },
+  {
+    "id": 10,
+    "cover": "https://source.unsplash.com/600x400/?blogging,writing",
+    "title": "Why I Started Blogging as a Developer",
+    "author": "Rabeya Sultana",
+    "author_img": "https://randomuser.me/api/portraits/women/22.jpg",
+    "posted_date": "2025-07-12",
+    "reading_time": "4 min read",
+    "hashtags": ["#Blogging", "#DevLife", "#Inspiration"]
+  }
+]
